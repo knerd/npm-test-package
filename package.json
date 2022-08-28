@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/knerd/npm-test-package/issues"
   },
+  "publishConfig": {
+   "@knerd:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/knerd/npm-test-package#readme"
 }

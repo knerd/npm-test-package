@@ -1,5 +1,5 @@
 {
-  "name": "@knerd/npm-test-package",
+  "name": "@xopherdeep/npm-test-package",
   "version": "1.0.0",
   "description": "NPM Test Package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/knerd/npm-test-package.git"
+    "url": "git+https://github.com/xopherdeep/npm-test-package.git"
   },
   "keywords": [
     "npm"
@@ -16,10 +16,10 @@
   "author": "xopherdeep",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knerd/npm-test-package/issues"
+    "url": "https://github.com/xopherdeep/npm-test-package/issues"
   },
   "publishConfig": {
-   "@knerd:registry": "https://npm.pkg.github.com"
+   "@xopherdeep:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/knerd/npm-test-package#readme"
+  "homepage": "https://github.com/xopherdeep/npm-test-package#readme"
 }
